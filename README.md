@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vitor Bisterso dos Santos and I am a software developer at [Sensedia](https://br.sensedia.com/) and student at São Paulo Federal Institute (IFSP)
+- 👀 I’m interested in web and mobile development
+- 🌱 I’m currently learning more and more about react and its ecosystem in general
+- 📫 How to reach me: [LinkdIn](https://www.linkedin.com/in/vitor-bisterso-dos-santos-18a574173/) and [email](mailto:vitorbisterso@gmail.com)
