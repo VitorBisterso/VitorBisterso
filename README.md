@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vitor Bisterso dos Santos and I am a software developer at [Sensedia](https://br.sensedia.com/)
+- 👋 Hi, I’m Vitor Bisterso dos Santos and I am a software developer at [Topaz](https://www.topazevolution.com/)
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning more and more about react and its ecosystem in general
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vitorbisterso/) and [email](mailto:vitorbisterso@gmail.com)
